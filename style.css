@@ -20,6 +20,7 @@ main {
     margin: 0 auto;
 }
 
+
 .aside-img-container img {
     display: none;
     height: 100vh;
@@ -75,7 +76,7 @@ a {
     font-weight: 400;
     font-size: 12px;
     line-height: 22px;
-    margin-right: 5px;
+
 
 }
 
@@ -88,7 +89,7 @@ a {
     font-weight: 400;
     font-size: 12px;
     line-height: 22px;
-    margin-left: 5px;
+
 }
 
 .or {
@@ -121,17 +122,18 @@ a {
     right: 0;
 }
 
-/* form {
-  max-width: 340px;
-} */
+
 input {
     padding: 10px 50px 10px 5px;
     border: 1.5px solid rgba(46, 46, 46, 0.6);
     border-radius: 8px;
     outline: none;
     margin: 10px 0;
-    width: 350px;
-    /* margin for spaces btw labels and inputs*/
+    width: 100%;
+    padding: 1em;
+
+
+
 }
 
 label {
@@ -142,10 +144,16 @@ label {
     line-height: 20px;
     color: #292232;
 
+
 }
 
+
+
+
+
+
 .google {
-    width: 17px;
+    width: 16px;
     height: auto;
 
 }
@@ -153,7 +161,7 @@ label {
 
 
 .fb {
-    width: 17px;
+    width: 16px;
     height: auto;
 }
 
